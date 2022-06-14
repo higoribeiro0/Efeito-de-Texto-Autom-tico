@@ -2,7 +2,7 @@
 
 Este projeto foi criado com o intuito de colocar em prática meus
 os conhecimentos adquiridos. A ideia inicial de desenvolver
-o `Efeito de Texto Automático` foi par se aprofundar no estudos de CSS e javascript.
+o `Efeito de Texto Automático` foi para se aprofundar no estudos de CSS e javascript.
 
 ## 📁 Acesso ao projeto
 
