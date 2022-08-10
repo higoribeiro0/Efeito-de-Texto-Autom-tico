@@ -6,7 +6,7 @@ o `Efeito de Texto Automático` foi para se aprofundar no estudos de CSS e javas
 
 ## 📁 Acesso ao projeto
 
-Live preview: https://lnkd.in/ezPbhTWf
+Live preview: https://lnkd.in/dVwJ8XMt
 
 Para você colocar este projeto em funcionamento, basta você clonar este
 projeto ou fazer download e executar o arquivo `index.html` em seu
